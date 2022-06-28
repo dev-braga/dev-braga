@@ -1,16 +1,14 @@
-## Olá, sou o Bruno.👋
+## Olá, eu sou o Bruno.👋
 
 👉 Estudante e amante da tecnologia, apaixonado por soluções inovadoras.
 
 ##### "Quem é correto nunca fracassará e será lembrado para sempre."- Salmos
 
-## Minhas Redes sociais
-
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.instagram.com/ny_bruno/)]
-![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-braga12/)
+[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ny_bruno/)
 ![]()
 
-### - Tenologias que eu utilizo
+### - Tecnologias que eu utilizo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-braga)](https://github.com/anuraghazra/github-readme-stats)
 
